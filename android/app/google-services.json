@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036920718204",
+    "firebase_url": "https://emudeck-a21c6-default-rtdb.firebaseio.com",
+    "project_id": "emudeck-a21c6",
+    "storage_bucket": "emudeck-a21c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036920718204:android:cece9d081216376cd51af9",
+        "android_client_info": {
+          "package_name": "com.example.emudeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036920718204-6a1vnm4bvu5cicqq93ija04j7h535k63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emudeck",
+            "certificate_hash": "f601a001d0d2d59a9f0a267f263a80563d209235"
+          }
+        },
+        {
+          "client_id": "1036920718204-bg7vrrjiqbv6hp05g6f88snt9r1fshpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SO7bbRdLVDiOj8t5Wr8GlPTzOMcKq0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036920718204-1vm9akbdlqd4vebr5p0r1l2lhdv6kvog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
